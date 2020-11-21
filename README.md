@@ -1,5 +1,5 @@
 ## Hi There 👋
-### Being curious and a worker is the best mind set 🧐
+### Being curious and a worker is the best mindset 🧐
 
 📚 Currently Working on : 
   - **D1andyou** - Simple website close to Yuka app
