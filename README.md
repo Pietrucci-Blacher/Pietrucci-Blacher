@@ -3,9 +3,9 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (1 day ago)
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (1 day ago)
-- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (6 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (2 days ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (2 days ago)
+- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (1 week ago)
 - [Pietrucci-Blacher/Docker-Plex](https://github.com/Pietrucci-Blacher/Docker-Plex) -  (2 months ago)
 - [Pietrucci-Blacher/Sharky](https://github.com/Pietrucci-Blacher/Sharky) - 🦈 - Sharky is a cool bot for discord with many admin features  (4 months ago)
 
