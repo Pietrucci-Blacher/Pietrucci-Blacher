@@ -4,8 +4,8 @@
 📚 Currently Working on :
 
 - [LordPax/hackathon-jaji](https://github.com/LordPax/hackathon-jaji) -  (1 day ago)
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (1 day ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (4 days ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (2 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (5 days ago)
 - [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (2 weeks ago)
 - [Pietrucci-Blacher/Docker-Plex](https://github.com/Pietrucci-Blacher/Docker-Plex) -  (2 months ago)
 
