@@ -3,11 +3,11 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (1 day ago)
-- [LordPax/todolist](https://github.com/LordPax/todolist) -  (4 days ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (5 days ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (2 days ago)
+- [LordPax/todolist](https://github.com/LordPax/todolist) -  (5 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (6 days ago)
 - [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (1 month ago)
-- [Pietrucci-Blacher/Docker-Plex](https://github.com/Pietrucci-Blacher/Docker-Plex) -  (4 months ago)
+- [Pietrucci-Blacher/Docker-Plex](https://github.com/Pietrucci-Blacher/Docker-Plex) -  (5 months ago)
 
 
 🔭 Latest releases I've contributed to :
