@@ -3,8 +3,8 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (2 days ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (6 days ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (3 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (1 week ago)
 - [Pietrucci-Blacher/API-Micro-Services](https://github.com/Pietrucci-Blacher/API-Micro-Services) -  (2 weeks ago)
 - [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (2 weeks ago)
 - [LordPax/todolist](https://github.com/LordPax/todolist) -  (2 months ago)
