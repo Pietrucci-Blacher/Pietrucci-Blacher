@@ -1,5 +1,4 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
-### Being curious and a worker is the best mindset 🧐
 
 📚 Currently Working on :
 
@@ -37,6 +36,7 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+<a href="https://https://react.dev" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -46,6 +46,7 @@
 <a href="https://www.php.net/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://bun.sh/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://bun.sh/logo.svg" alt="Bun" height="50" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>
@@ -56,6 +57,7 @@
 <a href="https://www.oracle.com/in/index.html" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 <a href="https://api-platform.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://grafikart.fr/uploads/icons/api-platform.svg" alt="API Platform" height="50" /></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -68,6 +70,7 @@
 <a href="https://apache.org" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" alt="Apache" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
 </div>
