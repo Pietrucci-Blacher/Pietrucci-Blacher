@@ -2,11 +2,11 @@
 
 📚 Currently Working on :
 
+- [Pietrucci-Blacher/angular-fyc](https://github.com/Pietrucci-Blacher/angular-fyc) -  (today)
 - [Pietrucci-Blacher/Sharky](https://github.com/Pietrucci-Blacher/Sharky) - 🦈 - Sharky is a cool bot for discord with many admin features  (6 days ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (1 week ago)
 - [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (2 weeks ago)
 - [Pietrucci-Blacher/API-Micro-Services](https://github.com/Pietrucci-Blacher/API-Micro-Services) -  (1 month ago)
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (2 months ago)
 
 
 🔭 Latest releases I've contributed to :
@@ -36,7 +36,7 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-<a href="https://https://react.dev" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
