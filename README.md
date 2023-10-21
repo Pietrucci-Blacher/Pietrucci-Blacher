@@ -2,11 +2,11 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (1 day ago)
-- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (3 weeks ago)
-- [Pietrucci-Blacher/angular-fyc](https://github.com/Pietrucci-Blacher/angular-fyc) -  (3 weeks ago)
-- [Pietrucci-Blacher/Sharky](https://github.com/Pietrucci-Blacher/Sharky) - 🦈 - Sharky is a cool bot for discord with many admin features  (1 month ago)
-- [Pietrucci-Blacher/API-Micro-Services](https://github.com/Pietrucci-Blacher/API-Micro-Services) -  (2 months ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (1 day ago)
+- [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (1 day ago)
+- [Pietrucci-Blacher/API-Micro-Services](https://github.com/Pietrucci-Blacher/API-Micro-Services) -  (1 day ago)
+- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (1 day ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (2 days ago)
 
 
 🔭 Latest releases I've contributed to :
