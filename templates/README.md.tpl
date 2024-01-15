@@ -104,19 +104,19 @@
 
 📫 How to reach me :
 <p align="center">
-    <a href="https://twitter.com/Sunshiotv" style="text-decoration:none; user-select:none;">
+    <a href="https://twitter.com/Sunshiotv" style="text-decoration:none !important; user-select:none !important;">
         <img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/167965d7450cd959650c27fb1ae851966a94b527/icons/twitter/twitter-original.svg"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/maxime-pietrucci/" style="text-decoration:none; user-select:none;">
+    <a href="https://www.linkedin.com/in/maxime-pietrucci/" style="text-decoration:none !important; user-select:none !important;">
         <img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
     </a>
     &nbsp;&nbsp;
-    <a href="https://discordapp.com/users/146296127812009984" style="text-decoration:none; user-select:none;">
+    <a href="https://discordapp.com/users/146296127812009984" style="text-decoration:none !important; user-select:none !important;">
         <img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:maxime.pietrucci@gmail.com" style="text-decoration:none; user-select:none;">
+    <a href="mailto:maxime.pietrucci@gmail.com" style="text-decoration:none !important; user-select:none !important;">
         <img alt="Pietrucci-Blacher | Email" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
     </a>
 </p>
