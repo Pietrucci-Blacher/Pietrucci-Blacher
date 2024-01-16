@@ -1,9 +1,4 @@
-[twitter]:  https://twitter.com/Sunshiotv
-[linkedin]: https://www.linkedin.com/in/maxime-pietrucci/
-[discord]:  https://discordapp.com/users/146296127812009984
-[email]:    mailto:maxime.pietrucci@gmail.com
-
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%" alt="Hello There">
 
 📚 Currently Working on :
 {{range recentContributions 5}}
@@ -89,7 +84,7 @@
     </summary>
     <br>
     <div align="center">
-        <img src="https://i.giphy.com/media/Ju7l5y9osyymQ/giphy.webp" width="450"/>
+        <img src="https://i.giphy.com/media/Ju7l5y9osyymQ/giphy.webp" width="450" alt="RickRoll"/>
     </div>
     <h1 align="center">Nothing but Coming Soon 🚧</h1>
 </details>
@@ -101,7 +96,7 @@
     </summary>
     <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pietrucci-Blacher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrucci-Blacher&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pietrucci-Blacher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrucci-Blacher&layout=compact&theme=buefy&hide_border=true" alt="Maxime github stats part 2"/> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </details>
@@ -109,9 +104,9 @@
 
 📫 How to reach me :
 <p align="center">
-    [<img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/167965d7450cd959650c27fb1ae851966a94b527/icons/twitter/twitter-original.svg"/>][twitter]
+    [<img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/167965d7450cd959650c27fb1ae851966a94b527/icons/twitter/twitter-original.svg" />][twitter]
     &nbsp;&nbsp;
-    [<img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
+    [<img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
     &nbsp;&nbsp;
     [<img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" />][discord]
     &nbsp;&nbsp;
@@ -122,3 +117,8 @@
 > The computer was born to solve problems that did not exist before - Bill Gates
 
 ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)
+
+[twitter]:  https://twitter.com/Sunshiotv
+[linkedin]: https://www.linkedin.com/in/maxime-pietrucci/
+[discord]:  https://discordapp.com/users/146296127812009984
+[email]:    mailto:maxime.pietrucci@gmail.com
