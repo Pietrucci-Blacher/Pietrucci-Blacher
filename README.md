@@ -1,9 +1,14 @@
+[twitter]:  https://twitter.com/Sunshiotv
+[linkedin]: https://www.linkedin.com/in/maxime-pietrucci/
+[discord]:  https://discordapp.com/users/146296127812009984
+[email]:    mailto:maxime.pietrucci@gmail.com
+
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (1 day ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (1 day ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (2 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (2 days ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (2 weeks ago)
 - [Pietrucci-Blacher/CC-clean-code1](https://github.com/Pietrucci-Blacher/CC-clean-code1) -  (2 weeks ago)
 - [Pietrucci-Blacher/API-Micro-Services](https://github.com/Pietrucci-Blacher/API-Micro-Services) -  (2 months ago)
@@ -21,7 +26,7 @@
 
 ### Frontend
 <div align="center">
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
@@ -105,21 +110,13 @@
 
 📫 How to reach me :
 <p align="center">
-    <a href="https://twitter.com/Sunshiotv">
-        <img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
-    </a>
+    [<img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/167965d7450cd959650c27fb1ae851966a94b527/icons/twitter/twitter-original.svg"/>][twitter]
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/maxime-pietrucci/">
-        <img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-    </a>
+    [<img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
     &nbsp;&nbsp;
-    <a href="https://discordapp.com/users/146296127812009984">
-        <img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" />
-    </a>
+    [<img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" />][discord]
     &nbsp;&nbsp;
-    <a href="mailto:maxime.pietrucci@gmail.com">
-        <img alt="Pietrucci-Blacher | Email" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-    </a>
+    [<img alt="Pietrucci-Blacher | Email" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 </p>
 
 ### Being curious and a worker is the best mindset 🧐
