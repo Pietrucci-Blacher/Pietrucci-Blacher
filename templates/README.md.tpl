@@ -3,7 +3,7 @@
 [discord]:  https://discordapp.com/users/146296127812009984
 [email]:    mailto:maxime.pietrucci@gmail.com
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%" alt="Hello There">
 
 📚 Currently Working on :
 {{range recentContributions 5}}
@@ -89,7 +89,7 @@
     </summary>
     <br>
     <div align="center">
-        <img src="https://i.giphy.com/media/Ju7l5y9osyymQ/giphy.webp" width="450"/>
+        <img src="https://i.giphy.com/media/Ju7l5y9osyymQ/giphy.webp" width="450" alt="RickRoll"/>
     </div>
     <h1 align="center">Nothing but Coming Soon 🚧</h1>
 </details>
@@ -101,7 +101,7 @@
     </summary>
     <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pietrucci-Blacher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrucci-Blacher&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pietrucci-Blacher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrucci-Blacher&layout=compact&theme=buefy&hide_border=true" alt="Maxime github stats part 2"/> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </details>
