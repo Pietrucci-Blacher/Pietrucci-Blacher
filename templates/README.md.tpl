@@ -1,8 +1,3 @@
-[twitter]:  https://twitter.com/Sunshiotv
-[linkedin]: https://www.linkedin.com/in/maxime-pietrucci/
-[discord]:  https://discordapp.com/users/146296127812009984
-[email]:    mailto:maxime.pietrucci@gmail.com
-
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%" alt="Hello There">
 
 📚 Currently Working on :
@@ -122,3 +117,8 @@
 > The computer was born to solve problems that did not exist before - Bill Gates
 
 ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)
+
+[twitter]:  https://twitter.com/Sunshiotv
+[linkedin]: https://www.linkedin.com/in/maxime-pietrucci/
+[discord]:  https://discordapp.com/users/146296127812009984
+[email]:    mailto:maxime.pietrucci@gmail.com
