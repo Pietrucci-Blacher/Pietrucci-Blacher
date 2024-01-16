@@ -20,7 +20,7 @@
 
 ### Frontend
 <div align="center">
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
@@ -29,10 +29,10 @@
 <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite.js" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
 <a href="https://react.dev" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="50" /></a>
@@ -44,14 +44,14 @@
 <div align="center">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" /></a>
 <a href="https://bun.sh/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://bun.sh/logo.svg" alt="Bun" height="50" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>
 <a href="https://postgresql.org" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
-<a href="https://symfony.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" /></a>
+<a href="https://symfony.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" height="50" /></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>
 <a href="https://www.oracle.com/in/index.html" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
@@ -70,8 +70,8 @@
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" height="50" /></a>
-<a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
+<a href="https://bitbucket.org" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" height="50" /></a>
 </div>
 
 </td></tr></table>
@@ -113,7 +113,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://discordapp.com/users/146296127812009984">
-        <img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" />
+        <img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"/>
     </a>
     &nbsp;&nbsp;
     <a href="mailto:maxime.pietrucci@gmail.com">
