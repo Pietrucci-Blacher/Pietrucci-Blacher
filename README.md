@@ -85,7 +85,7 @@
     </summary>
     <br>
     <div align="center">
-        <img src="https://i.giphy.com/media/Ju7l5y9osyymQ/giphy.webp" width="450" alt="RickRoll"/>
+        <img src="https://i.giphy.com/media/Ju7l5y9osyymQ/giphy.webp" width="450" alt="rickroll"/>
     </div>
     <h1 align="center">Nothing but Coming Soon 🚧</h1>
 </details>
@@ -105,21 +105,24 @@
 
 📫 How to reach me :
 <p align="center">
-    [<img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/167965d7450cd959650c27fb1ae851966a94b527/icons/twitter/twitter-original.svg" />][twitter]
+    <a href="https://twitter.com/Sunshiotv">
+        <img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
+    </a>
     &nbsp;&nbsp;
-    [<img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+    <a href="https://www.linkedin.com/in/maxime-pietrucci/">
+        <img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    </a>
     &nbsp;&nbsp;
-    [<img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" />][discord]
+    <a href="https://discordapp.com/users/146296127812009984">
+        <img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" />
+    </a>
     &nbsp;&nbsp;
-    [<img alt="Pietrucci-Blacher | Email" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
+    <a href="mailto:maxime.pietrucci@gmail.com">
+        <img alt="Pietrucci-Blacher | Email" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+    </a>
 </p>
 
 ### Being curious and a worker is the best mindset 🧐
 > The computer was born to solve problems that did not exist before - Bill Gates
 
 ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)
-
-[twitter]:  https://twitter.com/Sunshiotv
-[linkedin]: https://www.linkedin.com/in/maxime-pietrucci/
-[discord]:  https://discordapp.com/users/146296127812009984
-[email]:    mailto:maxime.pietrucci@gmail.com
