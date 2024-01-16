@@ -104,9 +104,9 @@
 
 📫 How to reach me :
 <p align="center">
-    [<img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/167965d7450cd959650c27fb1ae851966a94b527/icons/twitter/twitter-original.svg"/>][twitter]
+    [<img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://raw.githubusercontent.com/devicons/devicon/167965d7450cd959650c27fb1ae851966a94b527/icons/twitter/twitter-original.svg" />][twitter]
     &nbsp;&nbsp;
-    [<img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>][linkedin]
+    [<img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
     &nbsp;&nbsp;
     [<img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" />][discord]
     &nbsp;&nbsp;
