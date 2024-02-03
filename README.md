@@ -2,11 +2,11 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (3 days ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (4 days ago)
 - [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (1 week ago)
 - [TheoBourdel/fyc-google-drive](https://github.com/TheoBourdel/fyc-google-drive) - Ce projet vise à créer une application de stockage et de partage de fichiers, inspirée par les fonctionnalités de Google Drive. Il offre une interface conviviale permettant aux utilisateurs de télécharger, stocker, organiser et partager leurs fichiers en toute simplicité. (1 week ago)
-- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (1 week ago)
-- [Pietrucci-Blacher/CC-clean-code1](https://github.com/Pietrucci-Blacher/CC-clean-code1) -  (1 week ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (2 weeks ago)
+- [Pietrucci-Blacher/CC-clean-code1](https://github.com/Pietrucci-Blacher/CC-clean-code1) -  (2 weeks ago)
 
 
 🔭 Latest releases I've contributed to :
