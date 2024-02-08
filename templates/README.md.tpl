@@ -21,21 +21,21 @@
 ### Frontend
 <div align="center">
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite.js" height="50" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>
-<a href="https://angular.dev/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="50" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-<a href="https://react.dev" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" height="50" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg" alt="jQuery" height="50" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" height="50" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite.js" height="50" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="Webpack" height="50" /></a>
+<a href="https://angular.dev/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="50" /></a>
+<a href="https://react.dev" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
