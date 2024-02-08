@@ -105,11 +105,11 @@
 📫 How to reach me :
 <p align="center">
     <a href="https://twitter.com/Sunshiotv">
-        <img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
+        <img alt="Pietrucci-Blacher | Twitter" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/maxime-pietrucci/">
-        <img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+        <img alt="Pietrucci-Blacher | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://discordapp.com/users/146296127812009984">
