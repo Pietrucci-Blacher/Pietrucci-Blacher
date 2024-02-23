@@ -2,9 +2,9 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (1 day ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (1 day ago)
-- [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (5 days ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (2 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (2 days ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (6 days ago)
 - [TheoBourdel/fyc-google-drive](https://github.com/TheoBourdel/fyc-google-drive) - Ce projet vise à créer une application de stockage et de partage de fichiers, inspirée par les fonctionnalités de Google Drive. Il offre une interface conviviale permettant aux utilisateurs de télécharger, stocker, organiser et partager leurs fichiers en toute simplicité. (1 month ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (1 month ago)
 
