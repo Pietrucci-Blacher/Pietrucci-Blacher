@@ -2,11 +2,11 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/CleanCode-Partiel](https://github.com/Pietrucci-Blacher/CleanCode-Partiel) -  (2 days ago)
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (4 days ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (4 days ago)
+- [Pietrucci-Blacher/LiveQuizz](https://github.com/Pietrucci-Blacher/LiveQuizz) -  (1 day ago)
+- [Pietrucci-Blacher/CleanCode-Partiel](https://github.com/Pietrucci-Blacher/CleanCode-Partiel) -  (3 days ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (5 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (5 days ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (1 week ago)
-- [TheoBourdel/fyc-google-drive](https://github.com/TheoBourdel/fyc-google-drive) - Ce projet vise à créer une application de stockage et de partage de fichiers, inspirée par les fonctionnalités de Google Drive. Il offre une interface conviviale permettant aux utilisateurs de télécharger, stocker, organiser et partager leurs fichiers en toute simplicité. (1 month ago)
 
 
 🔭 Latest releases I've contributed to :
