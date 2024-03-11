@@ -57,6 +57,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" height="50" /></a>
 <a href="https://api-platform.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://api-platform.com/images/logos/Logo_Circle%20webby%20blue%20light.svg" alt="API Platform" height="50" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" height="50" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Golang" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
