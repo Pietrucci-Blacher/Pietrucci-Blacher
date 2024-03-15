@@ -2,11 +2,11 @@
 
 📚 Currently Working on :
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (2 days ago)
-- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (4 days ago)
-- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (4 days ago)
-- [Pietrucci-Blacher/Sharky](https://github.com/Pietrucci-Blacher/Sharky) - 🦈 - Sharky is a cool bot for discord with many admin features  (4 days ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (5 days ago)
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework (3 days ago)
+- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (5 days ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (5 days ago)
+- [Pietrucci-Blacher/Sharky](https://github.com/Pietrucci-Blacher/Sharky) - 🦈 - Sharky is a cool bot for discord with many admin features  (5 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (6 days ago)
 
 
 🔭 Latest releases I've contributed to :
