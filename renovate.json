@@ -1,8 +1,17 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends":[
-    "config:base",
-    ":disableDependencyDashboard"
+  "baseBranches": [
+    "develop"
   ],
-  "automerge": true
+  "commitBody": "For further details, refer to the linked pull request.",
+  "extends": [
+    "config:recommended",
+    ":disableDependencyDashboard",
+    ":semanticCommits"
+  ],
+  "labels": [
+    "dependencies"
+  ],
+  "rangeStrategy": "replace",
+  "timezone": "Europe/Paris"
 }
