@@ -2,11 +2,11 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (5 days ago)
-- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (5 days ago)
-- [Pietrucci-Blacher/Projet-annuel-3IW2](https://github.com/Pietrucci-Blacher/Projet-annuel-3IW2) - Repo du projet annuel 3IW2 (5 days ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (5 days ago)
-- [Pietrucci-Blacher/Docker-Plex](https://github.com/Pietrucci-Blacher/Docker-Plex) -  (5 days ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (1 day ago)
+- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (6 days ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (6 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (6 days ago)
+- [Pietrucci-Blacher/Projet-annuel-3IW2](https://github.com/Pietrucci-Blacher/Projet-annuel-3IW2) - Repo du projet annuel 3IW2 (6 days ago)
 
 
 🔭 Latest releases I've contributed to :
