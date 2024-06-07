@@ -11,8 +11,8 @@
 
 🔭 Latest releases I've contributed to :
 
-- [prettier/prettier](https://github.com/prettier/prettier) ([3.3.1](https://github.com/prettier/prettier/releases/tag/3.3.1), 1 day ago) - Prettier is an opinionated code formatter.
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([v0.18.4](https://github.com/wxt-dev/wxt/releases/tag/v0.18.4), 6 days ago) - ⚡ Next-gen Web Extension Framework
+- [prettier/prettier](https://github.com/prettier/prettier) ([3.3.1](https://github.com/prettier/prettier/releases/tag/3.3.1), 2 days ago) - Prettier is an opinionated code formatter.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([v0.18.4](https://github.com/wxt-dev/wxt/releases/tag/v0.18.4), 1 week ago) - ⚡ Next-gen Web Extension Framework
 
 <details>
 <summary>
