@@ -2,7 +2,7 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (3 weeks ago)
+- [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (1 day ago)
 - [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (1 month ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. (1 month ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (1 month ago)
@@ -11,8 +11,8 @@
 
 🔭 Latest releases I've contributed to :
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.18.5](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.18.5), 1 day ago) - ⚡ Next-gen Web Extension Framework
-- [prettier/prettier](https://github.com/prettier/prettier) ([3.3.2](https://github.com/prettier/prettier/releases/tag/3.3.2), 2 days ago) - Prettier is an opinionated code formatter.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.18.6](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.18.6), 1 day ago) - ⚡ Next-gen Web Extension Framework
+- [prettier/prettier](https://github.com/prettier/prettier) ([3.3.2](https://github.com/prettier/prettier/releases/tag/3.3.2), 3 days ago) - Prettier is an opinionated code formatter.
 
 <details>
 <summary>
