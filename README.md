@@ -2,17 +2,17 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (3 weeks ago)
-- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (3 weeks ago)
-- [LordPax/calmedica](https://github.com/LordPax/calmedica) -  (3 weeks ago)
+- [Pietrucci-Blacher/UrEsport](https://github.com/Pietrucci-Blacher/UrEsport) -  (1 day ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (4 weeks ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (4 weeks ago)
+- [LordPax/calmedica](https://github.com/LordPax/calmedica) -  (4 weeks ago)
 - [Pietrucci-Blacher/Boilerplate-Symfony](https://github.com/Pietrucci-Blacher/Boilerplate-Symfony) - Boilerplate for Symfony dev (1 month ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (2 months ago)
 
 
 🔭 Latest releases I've contributed to :
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.18.15](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.18.15), 5 days ago) - ⚡ Next-gen Web Extension Framework
-- [prettier/prettier](https://github.com/prettier/prettier) ([3.3.3](https://github.com/prettier/prettier/releases/tag/3.3.3), 1 week ago) - Prettier is an opinionated code formatter.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([auto-icons-v1.0.0](https://github.com/wxt-dev/wxt/releases/tag/auto-icons-v1.0.0), 1 day ago) - ⚡ Next-gen Web Extension Framework
+- [prettier/prettier](https://github.com/prettier/prettier) ([3.3.3](https://github.com/prettier/prettier/releases/tag/3.3.3), 2 weeks ago) - Prettier is an opinionated code formatter.
 
 <details>
 <summary>
