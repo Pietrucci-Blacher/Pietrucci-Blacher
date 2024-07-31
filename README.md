@@ -2,7 +2,7 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/UrEsport](https://github.com/Pietrucci-Blacher/UrEsport) -  (4 days ago)
+- [Pietrucci-Blacher/UrEsport](https://github.com/Pietrucci-Blacher/UrEsport) -  (5 days ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (1 month ago)
 - [LordPax/calmedica](https://github.com/LordPax/calmedica) -  (1 month ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (1 month ago)
@@ -11,7 +11,7 @@
 
 🔭 Latest releases I've contributed to :
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.2](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.2), 2 days ago) - ⚡ Next-gen Web Extension Framework
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([auto-icons-v1.0.1](https://github.com/wxt-dev/wxt/releases/tag/auto-icons-v1.0.1), 1 day ago) - ⚡ Next-gen Web Extension Framework
 - [prettier/prettier](https://github.com/prettier/prettier) ([3.3.3](https://github.com/prettier/prettier/releases/tag/3.3.3), 2 weeks ago) - Prettier is an opinionated code formatter.
 
 <details>
