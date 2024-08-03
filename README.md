@@ -11,8 +11,8 @@
 
 🔭 Latest releases I've contributed to :
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([auto-icons-v1.0.1](https://github.com/wxt-dev/wxt/releases/tag/auto-icons-v1.0.1), 3 days ago) - ⚡ Next-gen Web Extension Framework
-- [prettier/prettier](https://github.com/prettier/prettier) ([3.3.3](https://github.com/prettier/prettier/releases/tag/3.3.3), 2 weeks ago) - Prettier is an opinionated code formatter.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.3](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.3), 1 day ago) - ⚡ Next-gen Web Extension Framework
+- [prettier/prettier](https://github.com/prettier/prettier) ([3.3.3](https://github.com/prettier/prettier/releases/tag/3.3.3), 3 weeks ago) - Prettier is an opinionated code formatter.
 
 <details>
 <summary>
