@@ -2,8 +2,8 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (2 days ago)
-- [Pietrucci-Blacher/UrEsport](https://github.com/Pietrucci-Blacher/UrEsport) -  (6 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (1 day ago)
+- [Pietrucci-Blacher/UrEsport](https://github.com/Pietrucci-Blacher/UrEsport) -  (1 week ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (2 months ago)
 - [LordPax/calmedica](https://github.com/LordPax/calmedica) -  (2 months ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (2 months ago)
@@ -11,7 +11,7 @@
 
 🔭 Latest releases I've contributed to :
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.9](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.9), 4 days ago) - ⚡ Next-gen Web Extension Framework
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.9](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.9), 5 days ago) - ⚡ Next-gen Web Extension Framework
 - [prettier/prettier](https://github.com/prettier/prettier) ([3.3.3](https://github.com/prettier/prettier/releases/tag/3.3.3), 1 month ago) - Prettier is an opinionated code formatter.
 
 <details>
