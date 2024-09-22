@@ -2,16 +2,16 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/LiveQuizz](https://github.com/Pietrucci-Blacher/LiveQuizz) -  (2 days ago)
-- [Pietrucci-Blacher/CleanCode-Partiel](https://github.com/Pietrucci-Blacher/CleanCode-Partiel) -  (2 days ago)
+- [Pietrucci-Blacher/LiveQuizz](https://github.com/Pietrucci-Blacher/LiveQuizz) -  (today)
+- [Pietrucci-Blacher/API-Micro-Services](https://github.com/Pietrucci-Blacher/API-Micro-Services) -  (today)
+- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (today)
+- [Pietrucci-Blacher/CleanCode-Partiel](https://github.com/Pietrucci-Blacher/CleanCode-Partiel) -  (today)
 - [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (6 days ago)
-- [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (1 week ago)
-- [LordPax/calmedica](https://github.com/LordPax/calmedica) -  (2 months ago)
 
 
 🔭 Latest releases I've contributed to :
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.9](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.9), 2 weeks ago) - ⚡ Next-gen Web Extension Framework
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.10](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.10), today) - ⚡ Next-gen Web Extension Framework
 - [prettier/prettier](https://github.com/prettier/prettier) ([3.3.3](https://github.com/prettier/prettier/releases/tag/3.3.3), 2 months ago) - Prettier is an opinionated code formatter.
 
 <details>
