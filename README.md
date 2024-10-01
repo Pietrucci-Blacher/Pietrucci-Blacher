@@ -2,8 +2,8 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (1 day ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (5 days ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (2 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - BoilerPlate for JS dev with SCSS  (6 days ago)
 - [Pietrucci-Blacher/LiveQuizz](https://github.com/Pietrucci-Blacher/LiveQuizz) -  (1 week ago)
 - [Pietrucci-Blacher/CleanCode-Partiel](https://github.com/Pietrucci-Blacher/CleanCode-Partiel) -  (1 week ago)
 - [Pietrucci-Blacher/API-Micro-Services](https://github.com/Pietrucci-Blacher/API-Micro-Services) -  (1 week ago)
