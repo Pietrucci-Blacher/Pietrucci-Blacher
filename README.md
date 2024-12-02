@@ -2,19 +2,19 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (1 day ago)
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (1 day ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (2 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (2 days ago)
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (2 days ago)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (3 days ago)
 - [Pietrucci-Blacher/stylelint-ensure-custom-property-values-used](https://github.com/Pietrucci-Blacher/stylelint-ensure-custom-property-values-used) -  (2 weeks ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (2 weeks ago)
 
 
 🔭 Latest releases I've contributed to :
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.11.2](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.11.2), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.17](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.17), 3 days ago) - ⚡ Next-gen Web Extension Framework
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.462.0](https://github.com/lucide-icons/lucide/releases/tag/0.462.0), 4 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [prettier/prettier](https://github.com/prettier/prettier) ([3.4.1](https://github.com/prettier/prettier/releases/tag/3.4.1), 5 days ago) - Prettier is an opinionated code formatter.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.11.4](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.11.4), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([module-svelte-v2.0.1](https://github.com/wxt-dev/wxt/releases/tag/module-svelte-v2.0.1), 1 day ago) - ⚡ Next-gen Web Extension Framework
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.462.0](https://github.com/lucide-icons/lucide/releases/tag/0.462.0), 5 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [prettier/prettier](https://github.com/prettier/prettier) ([3.4.1](https://github.com/prettier/prettier/releases/tag/3.4.1), 6 days ago) - Prettier is an opinionated code formatter.
 
 <details>
 <summary>
