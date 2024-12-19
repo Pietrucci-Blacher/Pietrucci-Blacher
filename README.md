@@ -2,8 +2,8 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (4 days ago)
-- [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (6 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (5 days ago)
+- [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (1 week ago)
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) -  (1 week ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-2](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-2) -  (1 week ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (2 weeks ago)
@@ -11,9 +11,9 @@
 
 🔭 Latest releases I've contributed to :
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.14.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.14.0), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([module-react-v1.1.3](https://github.com/wxt-dev/wxt/releases/tag/module-react-v1.1.3), 1 day ago) - ⚡ Next-gen Web Extension Framework
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.468.0](https://github.com/lucide-icons/lucide/releases/tag/0.468.0), 1 week ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.15.1](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.15.1), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([module-react-v1.1.3](https://github.com/wxt-dev/wxt/releases/tag/module-react-v1.1.3), 2 days ago) - ⚡ Next-gen Web Extension Framework
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.468.0](https://github.com/lucide-icons/lucide/releases/tag/0.468.0), 2 weeks ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [prettier/prettier](https://github.com/prettier/prettier) ([3.4.2](https://github.com/prettier/prettier/releases/tag/3.4.2), 2 weeks ago) - Prettier is an opinionated code formatter.
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.0.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.0.0), 3 weeks ago)
 
