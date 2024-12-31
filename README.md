@@ -11,7 +11,7 @@
 
 🔭 Latest releases I've contributed to :
 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.23](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.23), 5 days ago) - ⚡ Next-gen Web Extension Framework
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.23](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.23), 6 days ago) - ⚡ Next-gen Web Extension Framework
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.17.1](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.17.1), 1 week ago) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.469.0](https://github.com/lucide-icons/lucide/releases/tag/0.469.0), 1 week ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [prettier/prettier](https://github.com/prettier/prettier) ([3.4.2](https://github.com/prettier/prettier/releases/tag/3.4.2), 3 weeks ago) - Prettier is an opinionated code formatter.
