@@ -2,8 +2,8 @@
 
 📚 Currently Working on :
 
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (1 day ago)
 - [Pietrucci-Blacher/stylelint-ensure-custom-property-values-used](https://github.com/Pietrucci-Blacher/stylelint-ensure-custom-property-values-used) -  (1 week ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (1 week ago)
 - [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (3 weeks ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (3 weeks ago)
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) -  (1 month ago)
@@ -11,9 +11,9 @@
 
 🔭 Latest releases I've contributed to :
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.18.1](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.18.1), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.471.0](https://github.com/lucide-icons/lucide/releases/tag/0.471.0), 2 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.23](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.23), 2 weeks ago) - ⚡ Next-gen Web Extension Framework
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.24](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.24), 1 day ago) - ⚡ Next-gen Web Extension Framework
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.18.1](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.18.1), 2 days ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.471.0](https://github.com/lucide-icons/lucide/releases/tag/0.471.0), 3 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [prettier/prettier](https://github.com/prettier/prettier) ([3.4.2](https://github.com/prettier/prettier/releases/tag/3.4.2), 1 month ago) - Prettier is an opinionated code formatter.
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.0.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.0.0), 1 month ago)
 
