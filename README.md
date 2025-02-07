@@ -2,8 +2,8 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (1 day ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (1 day ago)
+- [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (2 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (2 days ago)
 - [Pietrucci-Blacher/stylelint-ensure-custom-property-values-used](https://github.com/Pietrucci-Blacher/stylelint-ensure-custom-property-values-used) -  (1 month ago)
 - [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (1 month ago)
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) -  (1 month ago)
