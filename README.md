@@ -2,7 +2,7 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (2 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (3 days ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (1 week ago)
 - [Pietrucci-Blacher/stylelint-ensure-custom-property-values-used](https://github.com/Pietrucci-Blacher/stylelint-ensure-custom-property-values-used) -  (1 month ago)
 - [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (1 month ago)
@@ -11,11 +11,11 @@
 
 🔭 Latest releases I've contributed to :
 
-- [prettier/prettier](https://github.com/prettier/prettier) ([3.5.1](https://github.com/prettier/prettier/releases/tag/3.5.1), 1 day ago) - Prettier is an opinionated code formatter.
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.27](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.27), 2 days ago) - ⚡ Next-gen Web Extension Framework
+- [prettier/prettier](https://github.com/prettier/prettier) ([3.5.1](https://github.com/prettier/prettier/releases/tag/3.5.1), 2 days ago) - Prettier is an opinionated code formatter.
+- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.27](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.27), 3 days ago) - ⚡ Next-gen Web Extension Framework
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.475.0](https://github.com/lucide-icons/lucide/releases/tag/0.475.0), 1 week ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.19.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.19.0), 2 weeks ago) - The most customisable and low-latency cross platform/shell prompt renderer
-- [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 2 weeks ago)
+- [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 3 weeks ago)
 
 <details>
 <summary>
