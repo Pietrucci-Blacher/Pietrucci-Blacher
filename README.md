@@ -11,10 +11,10 @@
 
 🔭 Latest releases I've contributed to :
 
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.476.0](https://github.com/lucide-icons/lucide/releases/tag/0.476.0), 2 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [prettier/prettier](https://github.com/prettier/prettier) ([3.5.2](https://github.com/prettier/prettier/releases/tag/3.5.2), 5 days ago) - Prettier is an opinionated code formatter.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v25.0.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v25.0.0), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.476.0](https://github.com/lucide-icons/lucide/releases/tag/0.476.0), 3 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [prettier/prettier](https://github.com/prettier/prettier) ([3.5.2](https://github.com/prettier/prettier/releases/tag/3.5.2), 6 days ago) - Prettier is an opinionated code formatter.
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ([wxt-v0.19.27](https://github.com/wxt-dev/wxt/releases/tag/wxt-v0.19.27), 2 weeks ago) - ⚡ Next-gen Web Extension Framework
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v24.19.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v24.19.0), 1 month ago) - The most customisable and low-latency cross platform/shell prompt renderer
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 1 month ago)
 
 <details>
