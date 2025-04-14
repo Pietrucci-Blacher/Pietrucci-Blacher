@@ -3,16 +3,16 @@
 📚 Currently Working on :
 
 - [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (1 week ago)
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (1 week ago)
-- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (2 weeks ago)
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (2 weeks ago)
+- [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (3 weeks ago)
 - [Pietrucci-Blacher/Challenge-Semestriel-1-5IW](https://github.com/Pietrucci-Blacher/Challenge-Semestriel-1-5IW) -  (2 months ago)
 - [Pietrucci-Blacher/stylelint-ensure-custom-property-values-used](https://github.com/Pietrucci-Blacher/stylelint-ensure-custom-property-values-used) -  (3 months ago)
 
 
 🔭 Latest releases I've contributed to :
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v25.13.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v25.13.0), 5 days ago) - The most customisable and low-latency cross platform/shell prompt renderer
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.487.0](https://github.com/lucide-icons/lucide/releases/tag/0.487.0), 1 week ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.488.0](https://github.com/lucide-icons/lucide/releases/tag/0.488.0), 1 day ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v25.13.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v25.13.0), 6 days ago) - The most customisable and low-latency cross platform/shell prompt renderer
 - [prettier/prettier](https://github.com/prettier/prettier) ([3.5.3](https://github.com/prettier/prettier/releases/tag/3.5.3), 1 month ago) - Prettier is an opinionated code formatter.
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 2 months ago)
 
