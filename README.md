@@ -11,8 +11,8 @@
 
 🔭 Latest releases I've contributed to :
 
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.508.0](https://github.com/lucide-icons/lucide/releases/tag/0.508.0), 1 day ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v25.21.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v25.21.0), 6 days ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v25.22.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v25.22.0), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.508.0](https://github.com/lucide-icons/lucide/releases/tag/0.508.0), 2 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [prettier/prettier](https://github.com/prettier/prettier) ([3.5.3](https://github.com/prettier/prettier/releases/tag/3.5.3), 2 months ago) - Prettier is an opinionated code formatter.
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 3 months ago)
 
