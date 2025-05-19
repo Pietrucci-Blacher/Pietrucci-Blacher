@@ -23,7 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN_README_UPDATER }}
       -
-        uses: stefanzweifel/git-auto-commit-action@af302a9c635adb759442b1ffd153700cc7729cc4
+        uses: stefanzweifel/git-auto-commit-action@ae114628ea78fd141aa4fa7730f70c984b29c391
         with:
           commit_message: 'Update generated README'
           branch: main
