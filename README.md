@@ -2,7 +2,7 @@
 
 📚 Currently Working on :
 
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (6 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (1 week ago)
 - [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (1 month ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (2 months ago)
 - [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (2 months ago)
@@ -11,7 +11,7 @@
 
 🔭 Latest releases I've contributed to :
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v26.1.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.1.0), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v26.2.0](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.2.0), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.511.0](https://github.com/lucide-icons/lucide/releases/tag/0.511.0), 2 weeks ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 4 months ago)
 
