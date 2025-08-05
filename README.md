@@ -2,7 +2,7 @@
 
 📚 Currently Working on :
 
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (1 day ago)
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (2 days ago)
 - [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (1 month ago)
 - [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (3 months ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (4 months ago)
@@ -11,8 +11,8 @@
 
 🔭 Latest releases I've contributed to :
 
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.536.0](https://github.com/lucide-icons/lucide/releases/tag/0.536.0), 3 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v26.17.3](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.17.3), 5 days ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.536.0](https://github.com/lucide-icons/lucide/releases/tag/0.536.0), 4 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v26.17.3](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.17.3), 6 days ago) - The most customisable and low-latency cross platform/shell prompt renderer
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 6 months ago)
 
 <details>
