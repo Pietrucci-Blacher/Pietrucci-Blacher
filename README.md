@@ -2,8 +2,8 @@
 
 📚 Currently Working on :
 
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (4 days ago)
-- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (6 days ago)
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (5 days ago)
+- [Pietrucci-Blacher/Boilerplate-Dev-ViteJS](https://github.com/Pietrucci-Blacher/Boilerplate-Dev-ViteJS) - Boilerplate for dev in Vanilla JS  (1 week ago)
 - [Pietrucci-Blacher/apigolang](https://github.com/Pietrucci-Blacher/apigolang) -  (4 months ago)
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer (5 months ago)
 - [Pietrucci-Blacher/ruby-app](https://github.com/Pietrucci-Blacher/ruby-app) -  (5 months ago)
@@ -11,8 +11,8 @@
 
 🔭 Latest releases I've contributed to :
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v26.23.5](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.23.5), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.544.0](https://github.com/lucide-icons/lucide/releases/tag/0.544.0), 4 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v26.23.5](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.23.5), 2 days ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.544.0](https://github.com/lucide-icons/lucide/releases/tag/0.544.0), 5 days ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 7 months ago)
 
 <details>
