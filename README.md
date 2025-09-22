@@ -11,9 +11,9 @@
 
 🔭 Latest releases I've contributed to :
 
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v26.23.8](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.23.8), 2 days ago) - The most customisable and low-latency cross platform/shell prompt renderer
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ([v26.23.9](https://github.com/JanDeDobbeleer/oh-my-posh/releases/tag/v26.23.9), 1 day ago) - The most customisable and low-latency cross platform/shell prompt renderer
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) ([0.544.0](https://github.com/lucide-icons/lucide/releases/tag/0.544.0), 1 week ago) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 7 months ago)
+- [julienandco/google_places_autocomplete_text_field](https://github.com/julienandco/google_places_autocomplete_text_field) ([v1.1.0](https://github.com/julienandco/google_places_autocomplete_text_field/releases/tag/v1.1.0), 8 months ago)
 
 <details>
 <summary>
