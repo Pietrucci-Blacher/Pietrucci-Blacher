@@ -73,6 +73,7 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" height="50" /></a>
 <a href="https://bitbucket.org" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 </div>
 
 </td></tr></table>
