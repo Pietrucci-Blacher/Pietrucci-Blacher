@@ -58,6 +58,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" height="50" /></a>
 <a href="https://api-platform.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://api-platform.com/images/logos/Logo_Circle%20webby%20blue%20light.svg" alt="API Platform" height="50" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" height="50" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Golang" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -73,6 +74,7 @@
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" height="50" /></a>
 <a href="https://bitbucket.org" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer noopener"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
 </div>
 
 </td></tr></table>
@@ -97,7 +99,7 @@
     </summary>
     <br/>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pietrucci-Blacher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrucci-Blacher&layout=compact&theme=buefy&hide_border=true" alt="Maxime github stats part 2"/> |
+| <img align="center" src="https://github-stats-extended.vercel.app/api?username=Pietrucci-Blacher&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pietrucci-Blacher&layout=compact&theme=buefy&hide_border=true" alt="Maxime github stats part 2"/> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </details>
@@ -117,7 +119,7 @@
         <img alt="Pietrucci-Blacher | Discord" width="50px" height="50px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"/>
     </a>
     &nbsp;&nbsp;
-    <a href="mailto:maxime.pietrucci@gmail.com">
+    <a href="mailto:contact@mpb-dev.fr">
         <img alt="Pietrucci-Blacher | Email" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
     </a>
 </p>
